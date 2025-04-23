@@ -8,4 +8,4 @@
 
 - 安装依赖：`pip install -r requirements.txt`
 
-其余训练和测试参考微信文章：
+其余训练和测试参考微信文章：https://mp.weixin.qq.com/s/J9FOcJUXCP4pHdwksBAFug
